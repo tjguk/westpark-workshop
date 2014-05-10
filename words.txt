@@ -1,0 +1,7 @@
+DOG
+CAT
+BUS
+RUN
+ANY
+EMU
+FUN
